@@ -29,8 +29,8 @@ text on the back:
 
 Both DSP chips being read with custom wiring:
 
-![](C:\Users\abart\Desktop\DECtalk_DTC-03_ROMs\images\two_dsp_chips.jpg)
+![dsp chips being read in](images/two_dsp_chips.jpg)
 
 Successful checksum match of one of the DSP ROMs 🤩🤩🤩:
 
-![](C:\Users\abart\Desktop\DECtalk_DTC-03_ROMs\images\dsp_read.jpg)
+![checksum match of one of the DSP chips](images/dsp_read.jpg)
